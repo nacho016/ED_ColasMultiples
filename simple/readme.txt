@@ -7,4 +7,4 @@ Esta carpeta contiene todo el código en Pascal para la implementación mínima 
   - enqueueArr
   - dequeueArr
 
-El programa consta de 4 archivos: uPersona.pas, uColaPersona.pas, uControlCola.pas, y main.pas.
+El programa consta de 4 archivos: uPaciente.pas, uColaPaciente.pas, uControlCola.pas, y main.pas.
